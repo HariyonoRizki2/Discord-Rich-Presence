@@ -1,0 +1,7 @@
+{
+  "name": "Discord Rich Presence",
+  "description": "Discord RPC",
+  "repository": "https://github.com/HariyonoRizki2/Discord-Rich-Presence",
+  "logo": "https://cdn.worldvectorlogo.com/logos/javascript-1.svg",
+  "keywords": ["discord", "rpc", "discordjs"]
+}
